@@ -1,0 +1,1 @@
+# STRIPS_ARM_Rainfall_Manuscript
