@@ -4,7 +4,7 @@ Data and code for manuscript
 
 Raw data generated from qPCR runs and code for processing Ct values to gene copy numbers is stored in qPCR_processing folder
 
-Raw sequencing files can be downloaded from the NCBI SRA database with BioProject XXXX
+Raw sequencing files can be downloaded from the NCBI SRA database with BioProject PRJNA802329
 
 Code for processing sequencing files with dada2 is located in sequence_processing folder
 
