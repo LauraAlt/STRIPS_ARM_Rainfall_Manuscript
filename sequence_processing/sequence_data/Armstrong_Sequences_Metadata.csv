@@ -1,0 +1,855 @@
+﻿sample_name,matrix,treatment,strip,manure_amendment,plot,block,sample_day,sample_num,soil_type,depth,replicate,miseq_run
+ACM_T000_P7_S1_D1,soil,ACM,N,Y,7,1,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S1_D2,soil,ACM,N,Y,7,1,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S2_D1,soil,ACM,N,Y,7,1,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S2_D2,soil,ACM,N,Y,7,1,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S3_D1,soil,ACM,N,Y,7,1,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S3_D2,soil,ACM,N,Y,7,1,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S4_D1,soil,ACM,N,Y,7,1,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S4_D2,soil,ACM,N,Y,7,1,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S5_D1,soil,ACM,N,Y,7,1,T000,5,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P7_S5_D2,soil,ACM,N,Y,7,1,T000,5,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S1_D1,soil,ACM,N,Y,8,2,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S1_D2,soil,ACM,N,Y,8,2,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S2_D1,soil,ACM,N,Y,8,2,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S2_D2,soil,ACM,N,Y,8,2,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S3_D1,soil,ACM,N,Y,8,2,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S3_D2,soil,ACM,N,Y,8,2,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S4_D1,soil,ACM,N,Y,8,2,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S4_D2,soil,ACM,N,Y,8,2,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S5_D1,soil,ACM,N,Y,8,2,T000,5,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P8_S5_D2,soil,ACM,N,Y,8,2,T000,5,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S1_D1,soil,ACM,N,Y,9,3,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S1_D2,soil,ACM,N,Y,9,3,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S2_D1,soil,ACM,N,Y,9,3,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S2_D2,soil,ACM,N,Y,9,3,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S3_D1,soil,ACM,N,Y,9,3,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S3_D2,soil,ACM,N,Y,9,3,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S4_D1,soil,ACM,N,Y,9,3,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S4_D2,soil,ACM,N,Y,9,3,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S5_D1,soil,ACM,N,Y,9,3,T000,5,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACM_T000_P9_S5_D2,soil,ACM,N,Y,9,3,T000,5,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACM_T002_P7_S1_D1,soil,ACM,N,Y,7,1,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S1_D2,soil,ACM,N,Y,7,1,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S2_D1,soil,ACM,N,Y,7,1,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S2_D2,soil,ACM,N,Y,7,1,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S3_D1,soil,ACM,N,Y,7,1,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S3_D2,soil,ACM,N,Y,7,1,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S4_D1,soil,ACM,N,Y,7,1,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S4_D2,soil,ACM,N,Y,7,1,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S5_D1,soil,ACM,N,Y,7,1,T002,5,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P7_S5_D2,soil,ACM,N,Y,7,1,T002,5,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S1_D1,soil,ACM,N,Y,8,2,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S1_D2,soil,ACM,N,Y,8,2,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S2_D1,soil,ACM,N,Y,8,2,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S2_D2,soil,ACM,N,Y,8,2,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S3_D1,soil,ACM,N,Y,8,2,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S3_D2,soil,ACM,N,Y,8,2,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S4_D1,soil,ACM,N,Y,8,2,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S4_D2,soil,ACM,N,Y,8,2,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S5_D1,soil,ACM,N,Y,8,2,T002,5,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P8_S5_D2,soil,ACM,N,Y,8,2,T002,5,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S1_D1,soil,ACM,N,Y,9,3,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S1_D2,soil,ACM,N,Y,9,3,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S2_D1,soil,ACM,N,Y,9,3,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S2_D2,soil,ACM,N,Y,9,3,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S3_D1,soil,ACM,N,Y,9,3,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S3_D2,soil,ACM,N,Y,9,3,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S4_D1,soil,ACM,N,Y,9,3,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S4_D2,soil,ACM,N,Y,9,3,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S5_D1,soil,ACM,N,Y,9,3,T002,5,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACM_T002_P9_S5_D2,soil,ACM,N,Y,9,3,T002,5,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACM_T014_P7_S1_D1,soil,ACM,N,Y,7,1,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S1_D2,soil,ACM,N,Y,7,1,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S2_D1,soil,ACM,N,Y,7,1,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S2_D2,soil,ACM,N,Y,7,1,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S3_D1,soil,ACM,N,Y,7,1,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S3_D2,soil,ACM,N,Y,7,1,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S4_D1,soil,ACM,N,Y,7,1,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S4_D2,soil,ACM,N,Y,7,1,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S5_D1,soil,ACM,N,Y,7,1,T014,5,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P7_S5_D2,soil,ACM,N,Y,7,1,T014,5,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S1_D1,soil,ACM,N,Y,8,2,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S1_D2,soil,ACM,N,Y,8,2,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S2_D1,soil,ACM,N,Y,8,2,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S2_D2,soil,ACM,N,Y,8,2,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S3_D1,soil,ACM,N,Y,8,2,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S3_D2,soil,ACM,N,Y,8,2,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S4_D1,soil,ACM,N,Y,8,2,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S4_D2,soil,ACM,N,Y,8,2,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S5_D1,soil,ACM,N,Y,8,2,T014,5,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P8_S5_D2,soil,ACM,N,Y,8,2,T014,5,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S1_D1,soil,ACM,N,Y,9,3,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S1_D2,soil,ACM,N,Y,9,3,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S2_D1,soil,ACM,N,Y,9,3,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S2_D2,soil,ACM,N,Y,9,3,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S3_D1,soil,ACM,N,Y,9,3,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S3_D2,soil,ACM,N,Y,9,3,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S4_D1,soil,ACM,N,Y,9,3,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S4_D2,soil,ACM,N,Y,9,3,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S5_D1,soil,ACM,N,Y,9,3,T014,5,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACM_T014_P9_S5_D2,soil,ACM,N,Y,9,3,T014,5,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACM_T153_P7_S1_D1,soil,ACM,N,Y,7,1,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S1_D2,soil,ACM,N,Y,7,1,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S2_D1,soil,ACM,N,Y,7,1,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S2_D2,soil,ACM,N,Y,7,1,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S3_D1,soil,ACM,N,Y,7,1,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S3_D2,soil,ACM,N,Y,7,1,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S4_D1,soil,ACM,N,Y,7,1,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S4_D2,soil,ACM,N,Y,7,1,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S5_D1,soil,ACM,N,Y,7,1,T153,5,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P7_S5_D2,soil,ACM,N,Y,7,1,T153,5,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S1_D1,soil,ACM,N,Y,8,2,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S1_D2,soil,ACM,N,Y,8,2,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S2_D1,soil,ACM,N,Y,8,2,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S2_D2,soil,ACM,N,Y,8,2,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S3_D1,soil,ACM,N,Y,8,2,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S3_D2,soil,ACM,N,Y,8,2,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S4_D1,soil,ACM,N,Y,8,2,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S4_D2,soil,ACM,N,Y,8,2,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S5_D1,soil,ACM,N,Y,8,2,T153,5,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P8_S5_D2,soil,ACM,N,Y,8,2,T153,5,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S1_D1,soil,ACM,N,Y,9,3,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S1_D2,soil,ACM,N,Y,9,3,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S2_D1,soil,ACM,N,Y,9,3,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S2_D2,soil,ACM,N,Y,9,3,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S3_D1,soil,ACM,N,Y,9,3,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S3_D2,soil,ACM,N,Y,9,3,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S4_D1,soil,ACM,N,Y,9,3,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S4_D2,soil,ACM,N,Y,9,3,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S5_D1,soil,ACM,N,Y,9,3,T153,5,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACM_T153_P9_S5_D2,soil,ACM,N,Y,9,3,T153,5,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACM_TB_P7_S1_D1,soil,ACM,N,N,7,1,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S1_D2,soil,ACM,N,N,7,1,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S2_D1,soil,ACM,N,N,7,1,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S2_D2,soil,ACM,N,N,7,1,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S3_D1,soil,ACM,N,N,7,1,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S3_D2,soil,ACM,N,N,7,1,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S4_D1,soil,ACM,N,N,7,1,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S4_D2,soil,ACM,N,N,7,1,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S5_D1,soil,ACM,N,N,7,1,Baseline,5,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P7_S5_D2,soil,ACM,N,N,7,1,Baseline,5,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S1_D1,soil,ACM,N,N,8,2,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S1_D2,soil,ACM,N,N,8,2,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S2_D1,soil,ACM,N,N,8,2,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S2_D2,soil,ACM,N,N,8,2,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S3_D1,soil,ACM,N,N,8,2,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S3_D2,soil,ACM,N,N,8,2,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S4_D1,soil,ACM,N,N,8,2,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S4_D2,soil,ACM,N,N,8,2,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S5_D1,soil,ACM,N,N,8,2,Baseline,5,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P8_S5_D2,soil,ACM,N,N,8,2,Baseline,5,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S1_D1,soil,ACM,N,N,9,3,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S1_D2,soil,ACM,N,N,9,3,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S2_D1,soil,ACM,N,N,9,3,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S2_D2,soil,ACM,N,N,9,3,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S3_D1,soil,ACM,N,N,9,3,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S3_D2,soil,ACM,N,N,9,3,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S4_D1,soil,ACM,N,N,9,3,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S4_D2,soil,ACM,N,N,9,3,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S5_D1,soil,ACM,N,N,9,3,Baseline,5,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACM_TB_P9_S5_D2,soil,ACM,N,N,9,3,Baseline,5,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_T000_P1_S1_D1,soil,ACS,Y,N,1,1,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S1_D2,soil,ACS,Y,N,1,1,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S2_D1,soil,ACS,Y,N,1,1,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S2_D2,soil,ACS,Y,N,1,1,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S3_D1,soil,ACS,Y,N,1,1,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S3_D2,soil,ACS,Y,N,1,1,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S4_D1,soil,ACS,Y,N,1,1,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S4_D2,soil,ACS,Y,N,1,1,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P1_S5_D1,soil,ACS,Y,N,1,1,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P1_S5_D2,soil,ACS,Y,N,1,1,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P1_S6_D1,soil,ACS,Y,N,1,1,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S6_D2,soil,ACS,Y,N,1,1,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S7_D1,soil,ACS,Y,N,1,1,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S7_D2,soil,ACS,Y,N,1,1,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S8_D1,soil,ACS,Y,N,1,1,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S8_D2,soil,ACS,Y,N,1,1,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S9_D1,soil,ACS,Y,N,1,1,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P1_S9_D2,soil,ACS,Y,N,1,1,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S1_D1,soil,ACS,Y,N,2,2,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S1_D2,soil,ACS,Y,N,2,2,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S2_D1,soil,ACS,Y,N,2,2,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S2_D2,soil,ACS,Y,N,2,2,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S3_D1,soil,ACS,Y,N,2,2,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S3_D2,soil,ACS,Y,N,2,2,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S4_D1,soil,ACS,Y,N,2,2,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S4_D2,soil,ACS,Y,N,2,2,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P2_S5_D1,soil,ACS,Y,N,2,2,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P2_S5_D2,soil,ACS,Y,N,2,2,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P2_S6_D1,soil,ACS,Y,N,2,2,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S6_D2,soil,ACS,Y,N,2,2,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S7_D1,soil,ACS,Y,N,2,2,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S7_D2,soil,ACS,Y,N,2,2,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S8_D1,soil,ACS,Y,N,2,2,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S8_D2,soil,ACS,Y,N,2,2,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S9_D1,soil,ACS,Y,N,2,2,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P2_S9_D2,soil,ACS,Y,N,2,2,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S1_D1,soil,ACS,Y,N,3,3,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S1_D2,soil,ACS,Y,N,3,3,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S2_D1,soil,ACS,Y,N,3,3,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S2_D2,soil,ACS,Y,N,3,3,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S3_D1,soil,ACS,Y,N,3,3,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S3_D2,soil,ACS,Y,N,3,3,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S4_D1,soil,ACS,Y,N,3,3,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S4_D2,soil,ACS,Y,N,3,3,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACS_T000_P3_S5_D1,soil,ACS,Y,N,3,3,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P3_S5_D2,soil,ACS,Y,N,3,3,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACS_T000_P3_S6_D1,soil,ACS,Y,N,3,3,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S6_D2,soil,ACS,Y,N,3,3,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S7_D1,soil,ACS,Y,N,3,3,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S7_D2,soil,ACS,Y,N,3,3,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S8_D1,soil,ACS,Y,N,3,3,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S8_D2,soil,ACS,Y,N,3,3,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S9_D1,soil,ACS,Y,N,3,3,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACS_T000_P3_S9_D2,soil,ACS,Y,N,3,3,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACS_T002_P1_S1_D1,soil,ACS,Y,N,1,1,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S1_D2,soil,ACS,Y,N,1,1,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S2_D1,soil,ACS,Y,N,1,1,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S2_D2,soil,ACS,Y,N,1,1,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S3_D1,soil,ACS,Y,N,1,1,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S3_D2,soil,ACS,Y,N,1,1,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S4_D1,soil,ACS,Y,N,1,1,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S4_D2,soil,ACS,Y,N,1,1,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P1_S5_D1,soil,ACS,Y,N,1,1,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P1_S5_D2,soil,ACS,Y,N,1,1,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P1_S6_D1,soil,ACS,Y,N,1,1,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S6_D2,soil,ACS,Y,N,1,1,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S7_D1,soil,ACS,Y,N,1,1,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S7_D2,soil,ACS,Y,N,1,1,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S8_D1,soil,ACS,Y,N,1,1,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S8_D2,soil,ACS,Y,N,1,1,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S9_D1,soil,ACS,Y,N,1,1,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P1_S9_D2,soil,ACS,Y,N,1,1,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S1_D1,soil,ACS,Y,N,2,2,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S1_D2,soil,ACS,Y,N,2,2,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S2_D1,soil,ACS,Y,N,2,2,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S2_D2,soil,ACS,Y,N,2,2,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S3_D1,soil,ACS,Y,N,2,2,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S3_D2,soil,ACS,Y,N,2,2,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S4_D1,soil,ACS,Y,N,2,2,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S4_D2,soil,ACS,Y,N,2,2,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P2_S5_D1,soil,ACS,Y,N,2,2,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P2_S5_D2,soil,ACS,Y,N,2,2,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P2_S6_D1,soil,ACS,Y,N,2,2,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S6_D2,soil,ACS,Y,N,2,2,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S7_D1,soil,ACS,Y,N,2,2,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S7_D2,soil,ACS,Y,N,2,2,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S8_D1,soil,ACS,Y,N,2,2,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S8_D2,soil,ACS,Y,N,2,2,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S9_D1,soil,ACS,Y,N,2,2,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P2_S9_D2,soil,ACS,Y,N,2,2,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S1_D1,soil,ACS,Y,N,3,3,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S1_D2,soil,ACS,Y,N,3,3,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S2_D1,soil,ACS,Y,N,3,3,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S2_D2,soil,ACS,Y,N,3,3,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S3_D1,soil,ACS,Y,N,3,3,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S3_D2,soil,ACS,Y,N,3,3,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S4_D1,soil,ACS,Y,N,3,3,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S4_D2,soil,ACS,Y,N,3,3,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACS_T002_P3_S5_D1,soil,ACS,Y,N,3,3,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P3_S5_D2,soil,ACS,Y,N,3,3,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACS_T002_P3_S6_D1,soil,ACS,Y,N,3,3,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S6_D2,soil,ACS,Y,N,3,3,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S7_D1,soil,ACS,Y,N,3,3,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S7_D2,soil,ACS,Y,N,3,3,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S8_D1,soil,ACS,Y,N,3,3,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S8_D2,soil,ACS,Y,N,3,3,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S9_D1,soil,ACS,Y,N,3,3,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACS_T002_P3_S9_D2,soil,ACS,Y,N,3,3,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACS_T014_P1_S1_D1,soil,ACS,Y,N,1,1,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S1_D2,soil,ACS,Y,N,1,1,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S2_D1,soil,ACS,Y,N,1,1,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S2_D2,soil,ACS,Y,N,1,1,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S3_D1,soil,ACS,Y,N,1,1,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S3_D2,soil,ACS,Y,N,1,1,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S4_D1,soil,ACS,Y,N,1,1,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S4_D2,soil,ACS,Y,N,1,1,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P1_S5_D1,soil,ACS,Y,N,1,1,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P1_S5_D2,soil,ACS,Y,N,1,1,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P1_S6_D1,soil,ACS,Y,N,1,1,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S6_D2,soil,ACS,Y,N,1,1,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S7_D1,soil,ACS,Y,N,1,1,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S7_D2,soil,ACS,Y,N,1,1,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S8_D1,soil,ACS,Y,N,1,1,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S8_D2,soil,ACS,Y,N,1,1,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S9_D1,soil,ACS,Y,N,1,1,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P1_S9_D2,soil,ACS,Y,N,1,1,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S1_D1,soil,ACS,Y,N,2,2,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S1_D2,soil,ACS,Y,N,2,2,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S2_D1,soil,ACS,Y,N,2,2,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S2_D2,soil,ACS,Y,N,2,2,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S3_D1,soil,ACS,Y,N,2,2,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S3_D2,soil,ACS,Y,N,2,2,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S4_D1,soil,ACS,Y,N,2,2,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S4_D2,soil,ACS,Y,N,2,2,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P2_S5_D1,soil,ACS,Y,N,2,2,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P2_S5_D2,soil,ACS,Y,N,2,2,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P2_S6_D1,soil,ACS,Y,N,2,2,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S6_D2,soil,ACS,Y,N,2,2,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S7_D1,soil,ACS,Y,N,2,2,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S7_D2,soil,ACS,Y,N,2,2,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S8_D1,soil,ACS,Y,N,2,2,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S8_D2,soil,ACS,Y,N,2,2,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S9_D1,soil,ACS,Y,N,2,2,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P2_S9_D2,soil,ACS,Y,N,2,2,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S1_D1,soil,ACS,Y,N,3,3,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S1_D2,soil,ACS,Y,N,3,3,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S2_D1,soil,ACS,Y,N,3,3,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S2_D2,soil,ACS,Y,N,3,3,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S3_D1,soil,ACS,Y,N,3,3,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S3_D2,soil,ACS,Y,N,3,3,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S4_D1,soil,ACS,Y,N,3,3,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S4_D2,soil,ACS,Y,N,3,3,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACS_T014_P3_S5_D1,soil,ACS,Y,N,3,3,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P3_S5_D2,soil,ACS,Y,N,3,3,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_1
+ACS_T014_P3_S6_D1,soil,ACS,Y,N,3,3,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S6_D2,soil,ACS,Y,N,3,3,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S7_D1,soil,ACS,Y,N,3,3,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S7_D2,soil,ACS,Y,N,3,3,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S8_D1,soil,ACS,Y,N,3,3,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S8_D2,soil,ACS,Y,N,3,3,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S9_D1,soil,ACS,Y,N,3,3,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_1
+ACS_T014_P3_S9_D2,soil,ACS,Y,N,3,3,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_1
+ACS_T153_P1_S1_D1,soil,ACS,Y,N,1,1,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S1_D2,soil,ACS,Y,N,1,1,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S2_D1,soil,ACS,Y,N,1,1,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S2_D2,soil,ACS,Y,N,1,1,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S3_D1,soil,ACS,Y,N,1,1,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S3_D2,soil,ACS,Y,N,1,1,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S4_D1,soil,ACS,Y,N,1,1,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S4_D2,soil,ACS,Y,N,1,1,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P1_S5_D1,soil,ACS,Y,N,1,1,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P1_S5_D2,soil,ACS,Y,N,1,1,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P1_S6_D1,soil,ACS,Y,N,1,1,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S6_D2,soil,ACS,Y,N,1,1,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S7_D1,soil,ACS,Y,N,1,1,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S7_D2,soil,ACS,Y,N,1,1,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S8_D1,soil,ACS,Y,N,1,1,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S8_D2,soil,ACS,Y,N,1,1,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S9_D1,soil,ACS,Y,N,1,1,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P1_S9_D2,soil,ACS,Y,N,1,1,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S1_D1,soil,ACS,Y,N,2,2,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S1_D2,soil,ACS,Y,N,2,2,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S2_D1,soil,ACS,Y,N,2,2,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S2_D2,soil,ACS,Y,N,2,2,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S3_D1,soil,ACS,Y,N,2,2,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S3_D2,soil,ACS,Y,N,2,2,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S4_D1,soil,ACS,Y,N,2,2,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S4_D2,soil,ACS,Y,N,2,2,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P2_S5_D1,soil,ACS,Y,N,2,2,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P2_S5_D2,soil,ACS,Y,N,2,2,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P2_S6_D1,soil,ACS,Y,N,2,2,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S6_D2,soil,ACS,Y,N,2,2,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S7_D1,soil,ACS,Y,N,2,2,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S7_D2,soil,ACS,Y,N,2,2,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S8_D1,soil,ACS,Y,N,2,2,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S8_D2,soil,ACS,Y,N,2,2,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S9_D1,soil,ACS,Y,N,2,2,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P2_S9_D2,soil,ACS,Y,N,2,2,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S1_D1,soil,ACS,Y,N,3,3,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S1_D2,soil,ACS,Y,N,3,3,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S2_D1,soil,ACS,Y,N,3,3,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S2_D2,soil,ACS,Y,N,3,3,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S3_D1,soil,ACS,Y,N,3,3,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S3_D2,soil,ACS,Y,N,3,3,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S4_D1,soil,ACS,Y,N,3,3,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S4_D2,soil,ACS,Y,N,3,3,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACS_T153_P3_S5_D1,soil,ACS,Y,N,3,3,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P3_S5_D2,soil,ACS,Y,N,3,3,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACS_T153_P3_S6_D1,soil,ACS,Y,N,3,3,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S6_D2,soil,ACS,Y,N,3,3,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S7_D1,soil,ACS,Y,N,3,3,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S7_D2,soil,ACS,Y,N,3,3,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S8_D1,soil,ACS,Y,N,3,3,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S8_D2,soil,ACS,Y,N,3,3,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S9_D1,soil,ACS,Y,N,3,3,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACS_T153_P3_S9_D2,soil,ACS,Y,N,3,3,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACS_TB_P1_S1_D1,soil,ACS,Y,N,1,1,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S1_D2,soil,ACS,Y,N,1,1,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S2_D1,soil,ACS,Y,N,1,1,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S2_D2,soil,ACS,Y,N,1,1,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S3_D1,soil,ACS,Y,N,1,1,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S3_D2,soil,ACS,Y,N,1,1,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S4_D1,soil,ACS,Y,N,1,1,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S4_D2,soil,ACS,Y,N,1,1,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P1_S5_D1,soil,ACS,Y,N,1,1,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACS_TB_P1_S5_D2,soil,ACS,Y,N,1,1,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACS_TB_P1_S6_D1,soil,ACS,Y,N,1,1,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S6_D2,soil,ACS,Y,N,1,1,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S7_D1,soil,ACS,Y,N,1,1,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S7_D2,soil,ACS,Y,N,1,1,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S8_D1,soil,ACS,Y,N,1,1,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S8_D2,soil,ACS,Y,N,1,1,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S9_D1,soil,ACS,Y,N,1,1,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P1_S9_D2,soil,ACS,Y,N,1,1,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S1_D1,soil,ACS,Y,N,2,2,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S1_D2,soil,ACS,Y,N,2,2,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S2_D1,soil,ACS,Y,N,2,2,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S2_D2,soil,ACS,Y,N,2,2,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S3_D1,soil,ACS,Y,N,2,2,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S3_D2,soil,ACS,Y,N,2,2,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S4_D1,soil,ACS,Y,N,2,2,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S4_D2,soil,ACS,Y,N,2,2,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P2_S5_D1,soil,ACS,Y,N,2,2,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACS_TB_P2_S5_D2,soil,ACS,Y,N,2,2,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACS_TB_P2_S6_D1,soil,ACS,Y,N,2,2,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S6_D2,soil,ACS,Y,N,2,2,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S7_D1,soil,ACS,Y,N,2,2,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S7_D2,soil,ACS,Y,N,2,2,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S8_D1,soil,ACS,Y,N,2,2,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S8_D2,soil,ACS,Y,N,2,2,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S9_D1,soil,ACS,Y,N,2,2,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P2_S9_D2,soil,ACS,Y,N,2,2,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S1_D1,soil,ACS,Y,N,3,3,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S1_D2,soil,ACS,Y,N,3,3,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S2_D1,soil,ACS,Y,N,3,3,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S2_D2,soil,ACS,Y,N,3,3,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S3_D1,soil,ACS,Y,N,3,3,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S3_D2,soil,ACS,Y,N,3,3,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S4_D1,soil,ACS,Y,N,3,3,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S4_D2,soil,ACS,Y,N,3,3,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACS_TB_P3_S5_D1,soil,ACS,Y,N,3,3,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACS_TB_P3_S5_D2,soil,ACS,Y,N,3,3,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACS_TB_P3_S6_D1,soil,ACS,Y,N,3,3,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S6_D2,soil,ACS,Y,N,3,3,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S7_D1,soil,ACS,Y,N,3,3,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S7_D2,soil,ACS,Y,N,3,3,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S8_D1,soil,ACS,Y,N,3,3,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S8_D2,soil,ACS,Y,N,3,3,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S9_D1,soil,ACS,Y,N,3,3,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACS_TB_P3_S9_D2,soil,ACS,Y,N,3,3,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_T000_P4_S1_D1,soil,ACSM,Y,Y,4,1,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S1_D2,soil,ACSM,Y,Y,4,1,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S2_D1,soil,ACSM,Y,Y,4,1,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S2_D2,soil,ACSM,Y,Y,4,1,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S3_D1,soil,ACSM,Y,Y,4,1,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S3_D2,soil,ACSM,Y,Y,4,1,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S4_D1,soil,ACSM,Y,Y,4,1,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S4_D2,soil,ACSM,Y,Y,4,1,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P4_S5_D1,soil,ACSM,Y,Y,4,1,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P4_S5_D2,soil,ACSM,Y,Y,4,1,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P4_S6_D1,soil,ACSM,Y,Y,4,1,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S6_D2,soil,ACSM,Y,Y,4,1,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S7_D1,soil,ACSM,Y,Y,4,1,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S7_D2,soil,ACSM,Y,Y,4,1,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S8_D1,soil,ACSM,Y,Y,4,1,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S8_D2,soil,ACSM,Y,Y,4,1,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S9_D1,soil,ACSM,Y,Y,4,1,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P4_S9_D2,soil,ACSM,Y,Y,4,1,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S1_D1,soil,ACSM,Y,Y,5,2,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S1_D2,soil,ACSM,Y,Y,5,2,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S2_D1,soil,ACSM,Y,Y,5,2,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S2_D2,soil,ACSM,Y,Y,5,2,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S3_D1,soil,ACSM,Y,Y,5,2,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S3_D2,soil,ACSM,Y,Y,5,2,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S4_D1,soil,ACSM,Y,Y,5,2,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S4_D2,soil,ACSM,Y,Y,5,2,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P5_S5_D1,soil,ACSM,Y,Y,5,2,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P5_S5_D2,soil,ACSM,Y,Y,5,2,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P5_S6_D1,soil,ACSM,Y,Y,5,2,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S6_D2,soil,ACSM,Y,Y,5,2,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S7_D1,soil,ACSM,Y,Y,5,2,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S7_D2,soil,ACSM,Y,Y,5,2,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S8_D1,soil,ACSM,Y,Y,5,2,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S8_D2,soil,ACSM,Y,Y,5,2,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S9_D1,soil,ACSM,Y,Y,5,2,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P5_S9_D2,soil,ACSM,Y,Y,5,2,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S1_D1,soil,ACSM,Y,Y,6,3,T000,1,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S1_D2,soil,ACSM,Y,Y,6,3,T000,1,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S2_D1,soil,ACSM,Y,Y,6,3,T000,2,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S2_D2,soil,ACSM,Y,Y,6,3,T000,2,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S3_D1,soil,ACSM,Y,Y,6,3,T000,3,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S3_D2,soil,ACSM,Y,Y,6,3,T000,3,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S4_D1,soil,ACSM,Y,Y,6,3,T000,4,Crop,Depth 1,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S4_D2,soil,ACSM,Y,Y,6,3,T000,4,Crop,Depth 2,soil_T000_crop,STRIPS_Run_1
+ACSM_T000_P6_S5_D1,soil,ACSM,Y,Y,6,3,T000,5,Interface,Depth 1,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P6_S5_D2,soil,ACSM,Y,Y,6,3,T000,5,Interface,Depth 2,soil_T000_interface,STRIPS_Run_1
+ACSM_T000_P6_S6_D1,soil,ACSM,Y,Y,6,3,T000,6,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S6_D2,soil,ACSM,Y,Y,6,3,T000,6,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S7_D1,soil,ACSM,Y,Y,6,3,T000,7,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S7_D2,soil,ACSM,Y,Y,6,3,T000,7,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S8_D1,soil,ACSM,Y,Y,6,3,T000,8,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S8_D2,soil,ACSM,Y,Y,6,3,T000,8,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S9_D1,soil,ACSM,Y,Y,6,3,T000,9,Strip,Depth 1,soil_T000_strip,STRIPS_Run_1
+ACSM_T000_P6_S9_D2,soil,ACSM,Y,Y,6,3,T000,9,Strip,Depth 2,soil_T000_strip,STRIPS_Run_1
+ACSM_T002_P4_S1_D1,soil,ACSM,Y,Y,4,1,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S1_D2,soil,ACSM,Y,Y,4,1,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S2_D1,soil,ACSM,Y,Y,4,1,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S2_D2,soil,ACSM,Y,Y,4,1,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S3_D1,soil,ACSM,Y,Y,4,1,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S3_D2,soil,ACSM,Y,Y,4,1,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S4_D1,soil,ACSM,Y,Y,4,1,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S4_D2,soil,ACSM,Y,Y,4,1,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P4_S5_D1,soil,ACSM,Y,Y,4,1,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P4_S5_D2,soil,ACSM,Y,Y,4,1,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P4_S6_D1,soil,ACSM,Y,Y,4,1,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S6_D2,soil,ACSM,Y,Y,4,1,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S7_D1,soil,ACSM,Y,Y,4,1,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S7_D2,soil,ACSM,Y,Y,4,1,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S8_D1,soil,ACSM,Y,Y,4,1,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S8_D2,soil,ACSM,Y,Y,4,1,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S9_D1,soil,ACSM,Y,Y,4,1,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P4_S9_D2,soil,ACSM,Y,Y,4,1,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S1_D1,soil,ACSM,Y,Y,5,2,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S1_D2,soil,ACSM,Y,Y,5,2,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S2_D1,soil,ACSM,Y,Y,5,2,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S2_D2,soil,ACSM,Y,Y,5,2,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S3_D1,soil,ACSM,Y,Y,5,2,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S3_D2,soil,ACSM,Y,Y,5,2,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S4_D1,soil,ACSM,Y,Y,5,2,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S4_D2,soil,ACSM,Y,Y,5,2,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P5_S5_D1,soil,ACSM,Y,Y,5,2,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P5_S5_D2,soil,ACSM,Y,Y,5,2,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P5_S6_D1,soil,ACSM,Y,Y,5,2,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S6_D2,soil,ACSM,Y,Y,5,2,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S7_D1,soil,ACSM,Y,Y,5,2,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S7_D2,soil,ACSM,Y,Y,5,2,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S8_D1,soil,ACSM,Y,Y,5,2,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S8_D2,soil,ACSM,Y,Y,5,2,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S9_D1,soil,ACSM,Y,Y,5,2,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P5_S9_D2,soil,ACSM,Y,Y,5,2,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S1_D1,soil,ACSM,Y,Y,6,3,T002,1,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S1_D2,soil,ACSM,Y,Y,6,3,T002,1,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S2_D1,soil,ACSM,Y,Y,6,3,T002,2,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S2_D2,soil,ACSM,Y,Y,6,3,T002,2,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S3_D1,soil,ACSM,Y,Y,6,3,T002,3,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S3_D2,soil,ACSM,Y,Y,6,3,T002,3,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S4_D1,soil,ACSM,Y,Y,6,3,T002,4,Crop,Depth 1,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S4_D2,soil,ACSM,Y,Y,6,3,T002,4,Crop,Depth 2,soil_T002_crop,STRIPS_Run_1
+ACSM_T002_P6_S5_D1,soil,ACSM,Y,Y,6,3,T002,5,Interface,Depth 1,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P6_S5_D2,soil,ACSM,Y,Y,6,3,T002,5,Interface,Depth 2,soil_T002_interface,STRIPS_Run_1
+ACSM_T002_P6_S6_D1,soil,ACSM,Y,Y,6,3,T002,6,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S6_D2,soil,ACSM,Y,Y,6,3,T002,6,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S7_D1,soil,ACSM,Y,Y,6,3,T002,7,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S7_D2,soil,ACSM,Y,Y,6,3,T002,7,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S8_D1,soil,ACSM,Y,Y,6,3,T002,8,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S8_D2,soil,ACSM,Y,Y,6,3,T002,8,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S9_D1,soil,ACSM,Y,Y,6,3,T002,9,Strip,Depth 1,soil_T002_strip,STRIPS_Run_1
+ACSM_T002_P6_S9_D2,soil,ACSM,Y,Y,6,3,T002,9,Strip,Depth 2,soil_T002_strip,STRIPS_Run_1
+ACSM_T014_P4_S1_D1,soil,ACSM,Y,Y,4,1,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_1
+ACSM_T014_P4_S1_D2,soil,ACSM,Y,Y,4,1,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_1
+ACSM_T014_P4_S2_D1,soil,ACSM,Y,Y,4,1,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S2_D2,soil,ACSM,Y,Y,4,1,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S3_D1,soil,ACSM,Y,Y,4,1,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S3_D2,soil,ACSM,Y,Y,4,1,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S4_D1,soil,ACSM,Y,Y,4,1,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S4_D2,soil,ACSM,Y,Y,4,1,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P4_S5_D1,soil,ACSM,Y,Y,4,1,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P4_S5_D2,soil,ACSM,Y,Y,4,1,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P4_S6_D1,soil,ACSM,Y,Y,4,1,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S6_D2,soil,ACSM,Y,Y,4,1,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S7_D1,soil,ACSM,Y,Y,4,1,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S7_D2,soil,ACSM,Y,Y,4,1,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S8_D1,soil,ACSM,Y,Y,4,1,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S8_D2,soil,ACSM,Y,Y,4,1,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S9_D1,soil,ACSM,Y,Y,4,1,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P4_S9_D2,soil,ACSM,Y,Y,4,1,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S1_D1,soil,ACSM,Y,Y,5,2,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S1_D2,soil,ACSM,Y,Y,5,2,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S2_D1,soil,ACSM,Y,Y,5,2,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S2_D2,soil,ACSM,Y,Y,5,2,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S3_D1,soil,ACSM,Y,Y,5,2,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S3_D2,soil,ACSM,Y,Y,5,2,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S4_D1,soil,ACSM,Y,Y,5,2,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S4_D2,soil,ACSM,Y,Y,5,2,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P5_S5_D1,soil,ACSM,Y,Y,5,2,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P5_S5_D2,soil,ACSM,Y,Y,5,2,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P5_S6_D1,soil,ACSM,Y,Y,5,2,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S6_D2,soil,ACSM,Y,Y,5,2,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S7_D1,soil,ACSM,Y,Y,5,2,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S7_D2,soil,ACSM,Y,Y,5,2,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S8_D1,soil,ACSM,Y,Y,5,2,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S8_D2,soil,ACSM,Y,Y,5,2,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S9_D1,soil,ACSM,Y,Y,5,2,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P5_S9_D2,soil,ACSM,Y,Y,5,2,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S1_D1,soil,ACSM,Y,Y,6,3,T014,1,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S1_D2,soil,ACSM,Y,Y,6,3,T014,1,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S2_D1,soil,ACSM,Y,Y,6,3,T014,2,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S2_D2,soil,ACSM,Y,Y,6,3,T014,2,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S3_D1,soil,ACSM,Y,Y,6,3,T014,3,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S3_D2,soil,ACSM,Y,Y,6,3,T014,3,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S4_D1,soil,ACSM,Y,Y,6,3,T014,4,Crop,Depth 1,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S4_D2,soil,ACSM,Y,Y,6,3,T014,4,Crop,Depth 2,soil_T014_crop,STRIPS_Run_2
+ACSM_T014_P6_S5_D1,soil,ACSM,Y,Y,6,3,T014,5,Interface,Depth 1,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P6_S5_D2,soil,ACSM,Y,Y,6,3,T014,5,Interface,Depth 2,soil_T014_interface,STRIPS_Run_2
+ACSM_T014_P6_S6_D1,soil,ACSM,Y,Y,6,3,T014,6,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S6_D2,soil,ACSM,Y,Y,6,3,T014,6,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S7_D1,soil,ACSM,Y,Y,6,3,T014,7,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S7_D2,soil,ACSM,Y,Y,6,3,T014,7,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S8_D1,soil,ACSM,Y,Y,6,3,T014,8,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S8_D2,soil,ACSM,Y,Y,6,3,T014,8,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S9_D1,soil,ACSM,Y,Y,6,3,T014,9,Strip,Depth 1,soil_T014_strip,STRIPS_Run_2
+ACSM_T014_P6_S9_D2,soil,ACSM,Y,Y,6,3,T014,9,Strip,Depth 2,soil_T014_strip,STRIPS_Run_2
+ACSM_T153_P4_S1_D1,soil,ACSM,Y,Y,4,1,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S1_D2,soil,ACSM,Y,Y,4,1,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S2_D1,soil,ACSM,Y,Y,4,1,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S2_D2,soil,ACSM,Y,Y,4,1,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S3_D1,soil,ACSM,Y,Y,4,1,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S3_D2,soil,ACSM,Y,Y,4,1,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S4_D1,soil,ACSM,Y,Y,4,1,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S4_D2,soil,ACSM,Y,Y,4,1,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P4_S5_D1,soil,ACSM,Y,Y,4,1,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P4_S5_D2,soil,ACSM,Y,Y,4,1,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P4_S6_D1,soil,ACSM,Y,Y,4,1,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S6_D2,soil,ACSM,Y,Y,4,1,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S7_D1,soil,ACSM,Y,Y,4,1,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S7_D2,soil,ACSM,Y,Y,4,1,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S8_D1,soil,ACSM,Y,Y,4,1,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S8_D2,soil,ACSM,Y,Y,4,1,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S9_D1,soil,ACSM,Y,Y,4,1,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P4_S9_D2,soil,ACSM,Y,Y,4,1,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S1_D1,soil,ACSM,Y,Y,5,2,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S1_D2,soil,ACSM,Y,Y,5,2,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S2_D1,soil,ACSM,Y,Y,5,2,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S2_D2,soil,ACSM,Y,Y,5,2,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S3_D1,soil,ACSM,Y,Y,5,2,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S3_D2,soil,ACSM,Y,Y,5,2,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S4_D1,soil,ACSM,Y,Y,5,2,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S4_D2,soil,ACSM,Y,Y,5,2,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P5_S5_D1,soil,ACSM,Y,Y,5,2,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P5_S5_D2,soil,ACSM,Y,Y,5,2,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P5_S6_D1,soil,ACSM,Y,Y,5,2,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S6_D2,soil,ACSM,Y,Y,5,2,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S7_D1,soil,ACSM,Y,Y,5,2,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S7_D2,soil,ACSM,Y,Y,5,2,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S8_D1,soil,ACSM,Y,Y,5,2,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S8_D2,soil,ACSM,Y,Y,5,2,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S9_D1,soil,ACSM,Y,Y,5,2,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P5_S9_D2,soil,ACSM,Y,Y,5,2,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S1_D1,soil,ACSM,Y,Y,6,3,T153,1,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S1_D2,soil,ACSM,Y,Y,6,3,T153,1,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S2_D1,soil,ACSM,Y,Y,6,3,T153,2,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S2_D2,soil,ACSM,Y,Y,6,3,T153,2,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S3_D1,soil,ACSM,Y,Y,6,3,T153,3,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S3_D2,soil,ACSM,Y,Y,6,3,T153,3,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S4_D1,soil,ACSM,Y,Y,6,3,T153,4,Crop,Depth 1,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S4_D2,soil,ACSM,Y,Y,6,3,T153,4,Crop,Depth 2,soil_T153_crop,STRIPS_Run_2
+ACSM_T153_P6_S5_D1,soil,ACSM,Y,Y,6,3,T153,5,Interface,Depth 1,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P6_S5_D2,soil,ACSM,Y,Y,6,3,T153,5,Interface,Depth 2,soil_T153_interface,STRIPS_Run_2
+ACSM_T153_P6_S6_D1,soil,ACSM,Y,Y,6,3,T153,6,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S6_D2,soil,ACSM,Y,Y,6,3,T153,6,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S7_D1,soil,ACSM,Y,Y,6,3,T153,7,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S7_D2,soil,ACSM,Y,Y,6,3,T153,7,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S8_D1,soil,ACSM,Y,Y,6,3,T153,8,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S8_D2,soil,ACSM,Y,Y,6,3,T153,8,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S9_D1,soil,ACSM,Y,Y,6,3,T153,9,Strip,Depth 1,soil_T153_strip,STRIPS_Run_2
+ACSM_T153_P6_S9_D2,soil,ACSM,Y,Y,6,3,T153,9,Strip,Depth 2,soil_T153_strip,STRIPS_Run_2
+ACSM_TB_P4_S1_D1,soil,ACSM,Y,N,4,1,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S1_D2,soil,ACSM,Y,N,4,1,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S2_D1,soil,ACSM,Y,N,4,1,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S2_D2,soil,ACSM,Y,N,4,1,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S3_D1,soil,ACSM,Y,N,4,1,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S3_D2,soil,ACSM,Y,N,4,1,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S4_D1,soil,ACSM,Y,N,4,1,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P4_S4_D2,soil,ACSM,Y,N,4,1,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_2
+ACSM_TB_P4_S5_D1,soil,ACSM,Y,N,4,1,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P4_S5_D2,soil,ACSM,Y,N,4,1,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P4_S6_D1,soil,ACSM,Y,N,4,1,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S6_D2,soil,ACSM,Y,N,4,1,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S7_D1,soil,ACSM,Y,N,4,1,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S7_D2,soil,ACSM,Y,N,4,1,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S8_D1,soil,ACSM,Y,N,4,1,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S8_D2,soil,ACSM,Y,N,4,1,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_2
+ACSM_TB_P4_S9_D1,soil,ACSM,Y,N,4,1,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P4_S9_D2,soil,ACSM,Y,N,4,1,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S1_D1,soil,ACSM,Y,N,5,2,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S1_D2,soil,ACSM,Y,N,5,2,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S2_D1,soil,ACSM,Y,N,5,2,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S2_D2,soil,ACSM,Y,N,5,2,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S3_D1,soil,ACSM,Y,N,5,2,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S3_D2,soil,ACSM,Y,N,5,2,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_2
+ACSM_TB_P5_S4_D1,soil,ACSM,Y,N,5,2,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S4_D2,soil,ACSM,Y,N,5,2,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P5_S5_D1,soil,ACSM,Y,N,5,2,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P5_S5_D2,soil,ACSM,Y,N,5,2,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P5_S6_D1,soil,ACSM,Y,N,5,2,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S6_D2,soil,ACSM,Y,N,5,2,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S7_D1,soil,ACSM,Y,N,5,2,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S7_D2,soil,ACSM,Y,N,5,2,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S8_D1,soil,ACSM,Y,N,5,2,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S8_D2,soil,ACSM,Y,N,5,2,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S9_D1,soil,ACSM,Y,N,5,2,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P5_S9_D2,soil,ACSM,Y,N,5,2,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S1_D1,soil,ACSM,Y,N,6,3,Baseline,1,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S1_D2,soil,ACSM,Y,N,6,3,Baseline,1,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S2_D1,soil,ACSM,Y,N,6,3,Baseline,2,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S2_D2,soil,ACSM,Y,N,6,3,Baseline,2,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S3_D1,soil,ACSM,Y,N,6,3,Baseline,3,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S3_D2,soil,ACSM,Y,N,6,3,Baseline,3,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S4_D1,soil,ACSM,Y,N,6,3,Baseline,4,Crop,Depth 1,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S4_D2,soil,ACSM,Y,N,6,3,Baseline,4,Crop,Depth 2,soil_base_crop,STRIPS_Run_1
+ACSM_TB_P6_S5_D1,soil,ACSM,Y,N,6,3,Baseline,5,Interface,Depth 1,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P6_S5_D2,soil,ACSM,Y,N,6,3,Baseline,5,Interface,Depth 2,soil_base_interface,STRIPS_Run_1
+ACSM_TB_P6_S6_D1,soil,ACSM,Y,N,6,3,Baseline,6,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S6_D2,soil,ACSM,Y,N,6,3,Baseline,6,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S7_D1,soil,ACSM,Y,N,6,3,Baseline,7,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S7_D2,soil,ACSM,Y,N,6,3,Baseline,7,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S8_D1,soil,ACSM,Y,N,6,3,Baseline,8,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S8_D2,soil,ACSM,Y,N,6,3,Baseline,8,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S9_D1,soil,ACSM,Y,N,6,3,Baseline,9,Strip,Depth 1,soil_base_strip,STRIPS_Run_1
+ACSM_TB_P6_S9_D2,soil,ACSM,Y,N,6,3,Baseline,9,Strip,Depth 2,soil_base_strip,STRIPS_Run_1
+AM_T000_B1_M_M_A10,manure,AM,manure,manure,manure,1,Baseline,1,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_B10,manure,AM,manure,manure,manure,1,Baseline,2,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_C10,manure,AM,manure,manure,manure,1,Baseline,3,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_D10,manure,AM,manure,manure,manure,1,Baseline,4,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_E10,manure,AM,manure,manure,manure,1,Baseline,5,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_F10,manure,AM,manure,manure,manure,1,Baseline,6,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_F9,manure,AM,manure,manure,manure,1,Baseline,7,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B1_M_M_G9,manure,AM,manure,manure,manure,1,Baseline,8,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_A11,manure,AM,manure,manure,manure,2,Baseline,1,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_B11,manure,AM,manure,manure,manure,2,Baseline,2,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_C11,manure,AM,manure,manure,manure,2,Baseline,3,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_D11,manure,AM,manure,manure,manure,2,Baseline,4,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_E11,manure,AM,manure,manure,manure,2,Baseline,5,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_F11,manure,AM,manure,manure,manure,2,Baseline,6,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_G10,manure,AM,manure,manure,manure,2,Baseline,7,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B2_M_M_H10,manure,AM,manure,manure,manure,2,Baseline,8,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_A12,manure,AM,manure,manure,manure,3,Baseline,1,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_B12,manure,AM,manure,manure,manure,3,Baseline,2,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_C12,manure,AM,manure,manure,manure,3,Baseline,3,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_D12,manure,AM,manure,manure,manure,3,Baseline,4,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_E12,manure,AM,manure,manure,manure,3,Baseline,5,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_F12,manure,AM,manure,manure,manure,3,Baseline,6,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_G11,manure,AM,manure,manure,manure,3,Baseline,7,Manure,manure,manure,STRIPS_Run_2
+AM_T000_B3_M_M_H11,manure,AM,manure,manure,manure,3,Baseline,8,Manure,manure,manure,STRIPS_Run_2
+ARM_PEL_P1_01,runoff_sediment,ACS,Y,N,1,1,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P1_02,runoff_sediment,ACS,Y,N,1,1,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P1_03,runoff_sediment,ACS,Y,N,1,1,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P1_04,runoff_sediment,ACS,Y,N,1,1,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P1_05,runoff_sediment,ACS,Y,N,1,1,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P1_06,runoff_sediment,ACS,Y,N,1,1,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_01,runoff_sediment,ACS,Y,N,2,2,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_02,runoff_sediment,ACS,Y,N,2,2,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_03,runoff_sediment,ACS,Y,N,2,2,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_04,runoff_sediment,ACS,Y,N,2,2,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_05,runoff_sediment,ACS,Y,N,2,2,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P2_06,runoff_sediment,ACS,Y,N,2,2,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_01,runoff_sediment,ACS,Y,N,3,3,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_02,runoff_sediment,ACS,Y,N,3,3,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_03,runoff_sediment,ACS,Y,N,3,3,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_04,runoff_sediment,ACS,Y,N,3,3,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_05,runoff_sediment,ACS,Y,N,3,3,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P3_06,runoff_sediment,ACS,Y,N,3,3,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_01,runoff_sediment,ACSM,Y,Y,4,1,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_02,runoff_sediment,ACSM,Y,Y,4,1,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_03,runoff_sediment,ACSM,Y,Y,4,1,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_04,runoff_sediment,ACSM,Y,Y,4,1,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_05,runoff_sediment,ACSM,Y,Y,4,1,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P4_06,runoff_sediment,ACSM,Y,Y,4,1,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_01,runoff_sediment,ACSM,Y,Y,5,2,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_02,runoff_sediment,ACSM,Y,Y,5,2,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_03,runoff_sediment,ACSM,Y,Y,5,2,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_04,runoff_sediment,ACSM,Y,Y,5,2,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_05,runoff_sediment,ACSM,Y,Y,5,2,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P5_06,runoff_sediment,ACSM,Y,Y,5,2,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_01,runoff_sediment,ACSM,Y,Y,6,3,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_02,runoff_sediment,ACSM,Y,Y,6,3,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_03,runoff_sediment,ACSM,Y,Y,6,3,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_04,runoff_sediment,ACSM,Y,Y,6,3,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_05,runoff_sediment,ACSM,Y,Y,6,3,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P6_06,runoff_sediment,ACSM,Y,Y,6,3,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_01,runoff_sediment,ACM,N,Y,7,1,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_02,runoff_sediment,ACM,N,Y,7,1,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_03,runoff_sediment,ACM,N,Y,7,1,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_04,runoff_sediment,ACM,N,Y,7,1,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_05,runoff_sediment,ACM,N,Y,7,1,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P7_06,runoff_sediment,ACM,N,Y,7,1,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_01,runoff_sediment,ACM,N,Y,8,2,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_02,runoff_sediment,ACM,N,Y,8,2,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_03,runoff_sediment,ACM,N,Y,8,2,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_04,runoff_sediment,ACM,N,Y,8,2,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_05,runoff_sediment,ACM,N,Y,8,2,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P8_06,runoff_sediment,ACM,N,Y,8,2,T000,6,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_01,runoff_sediment,ACM,N,Y,9,3,T000,1,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_02,runoff_sediment,ACM,N,Y,9,3,T000,2,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_03,runoff_sediment,ACM,N,Y,9,3,T000,3,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_04,runoff_sediment,ACM,N,Y,9,3,T000,4,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_05,runoff_sediment,ACM,N,Y,9,3,T000,5,water,water,water,STRIPS_Run_2
+ARM_PEL_P9_06,runoff_sediment,ACM,N,Y,9,3,T000,6,water,water,water,STRIPS_Run_2
+ARM_Water_P1_01,runoff_water,ACS,Y,N,1,1,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P1_02,runoff_water,ACS,Y,N,1,1,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P1_03,runoff_water,ACS,Y,N,1,1,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P1_04,runoff_water,ACS,Y,N,1,1,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P1_05,runoff_water,ACS,Y,N,1,1,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P1_06,runoff_water,ACS,Y,N,1,1,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P2_01,runoff_water,ACS,Y,N,2,2,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P2_02,runoff_water,ACS,Y,N,2,2,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P2_03,runoff_water,ACS,Y,N,2,2,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P2_04,runoff_water,ACS,Y,N,2,2,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P2_05,runoff_water,ACS,Y,N,2,2,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P2_06,runoff_water,ACS,Y,N,2,2,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P3_01,runoff_water,ACS,Y,N,3,3,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P3_02,runoff_water,ACS,Y,N,3,3,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P3_03,runoff_water,ACS,Y,N,3,3,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P3_04,runoff_water,ACS,Y,N,3,3,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P3_05,runoff_water,ACS,Y,N,3,3,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P3_06,runoff_water,ACS,Y,N,3,3,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P4_01,runoff_water,ACSM,Y,Y,4,1,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P4_02,runoff_water,ACSM,Y,Y,4,1,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P4_03,runoff_water,ACSM,Y,Y,4,1,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P4_04,runoff_water,ACSM,Y,Y,4,1,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P4_05,runoff_water,ACSM,Y,Y,4,1,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P4_06,runoff_water,ACSM,Y,Y,4,1,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P5_01,runoff_water,ACSM,Y,Y,5,2,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P5_02,runoff_water,ACSM,Y,Y,5,2,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P5_03,runoff_water,ACSM,Y,Y,5,2,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P5_04,runoff_water,ACSM,Y,Y,5,2,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P5_05,runoff_water,ACSM,Y,Y,5,2,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P5_06,runoff_water,ACSM,Y,Y,5,2,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P6_01,runoff_water,ACSM,Y,Y,6,3,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P6_02,runoff_water,ACSM,Y,Y,6,3,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P6_03,runoff_water,ACSM,Y,Y,6,3,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P6_04,runoff_water,ACSM,Y,Y,6,3,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P6_05,runoff_water,ACSM,Y,Y,6,3,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P6_06,runoff_water,ACSM,Y,Y,6,3,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P7_01,runoff_water,ACM,N,Y,7,1,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P7_02,runoff_water,ACM,N,Y,7,1,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P7_03,runoff_water,ACM,N,Y,7,1,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P7_04,runoff_water,ACM,N,Y,7,1,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P7_05,runoff_water,ACM,N,Y,7,1,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P7_06,runoff_water,ACM,N,Y,7,1,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P8_01,runoff_water,ACM,N,Y,8,2,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P8_02,runoff_water,ACM,N,Y,8,2,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P8_03,runoff_water,ACM,N,Y,8,2,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P8_04,runoff_water,ACM,N,Y,8,2,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P8_05,runoff_water,ACM,N,Y,8,2,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P8_06,runoff_water,ACM,N,Y,8,2,T000,6,water,water,water,STRIPS_Run_3
+ARM_Water_P9_01,runoff_water,ACM,N,Y,9,3,T000,1,water,water,water,STRIPS_Run_3
+ARM_Water_P9_02,runoff_water,ACM,N,Y,9,3,T000,2,water,water,water,STRIPS_Run_3
+ARM_Water_P9_03,runoff_water,ACM,N,Y,9,3,T000,3,water,water,water,STRIPS_Run_3
+ARM_Water_P9_04,runoff_water,ACM,N,Y,9,3,T000,4,water,water,water,STRIPS_Run_3
+ARM_Water_P9_05,runoff_water,ACM,N,Y,9,3,T000,5,water,water,water,STRIPS_Run_3
+ARM_Water_P9_06,runoff_water,ACM,N,Y,9,3,T000,6,water,water,water,STRIPS_Run_3
+mock_01,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+mock_02,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+mock_03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+mock_04,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+mock_05,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+mock_06,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+mock_07,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+mock_08,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+mock_09,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+mock_10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+NAArmstrong_B1_Manure_1,manure,AM,manure,manure,manure,1,Baseline,9,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B1_Manure_2,manure,AM,manure,manure,manure,1,Baseline,10,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B1_Manure_3,manure,AM,manure,manure,manure,1,Baseline,11,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B1_Manure_4,manure,AM,manure,manure,manure,1,Baseline,12,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B2_Manure_1,manure,AM,manure,manure,manure,2,Baseline,9,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B2_Manure_2,manure,AM,manure,manure,manure,2,Baseline,10,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B2_Manure_3,manure,AM,manure,manure,manure,2,Baseline,11,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B2_Manure_4,manure,AM,manure,manure,manure,2,Baseline,12,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B3_Manure_1,manure,AM,manure,manure,manure,3,Baseline,9,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B3_Manure_2,manure,AM,manure,manure,manure,3,Baseline,10,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B3_Manure_3,manure,AM,manure,manure,manure,3,Baseline,11,Manure,manure,manure,STRIPS_Run_2
+NAArmstrong_B3_Manure_4,manure,AM,manure,manure,manure,3,Baseline,12,Manure,manure,manure,STRIPS_Run_2
+NTC_01,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+NTC_02,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+NTC_03,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+NTC_04,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+NTC_05,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_1
+NTC_06,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+NTC_07,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+NTC_08,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+NTC_09,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
+NTC_10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,STRIPS_Run_2
